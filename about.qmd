@@ -1,0 +1,50 @@
+---
+title: ""
+---
+
+## Education
+**PhD in Animal Science | Graduate Minor in Statistics**         
+Oklahoma State University | June 2023 – Present          
+**Master of Science in Animal Science**              
+Nanjing Agricultural University | September 2020 – June 2023          
+**Bachelor of Science in Animal Science**          
+Qinghai University | September 2016 – June 2020                   
+
+## Research Experience
+**Graduate Research Assistant** | **Oklahoma State University** | **June 2023 – Present**       
+                                                                 
+- **High-Throughput Multi-Omics**: Analyze 16S rRNA (QIIME2 |  phyloseq |  ANCOM-BC2), RNA-seq (fastp |  STAR |  TSEM |  DESeq2 |  clusterProfiler), metagenomic (Bowtie |  Samtools |  Diamond |  MaxBin2 |  MetaBAT2 |  CONCOCT |  CheckM) and nanopore (dorado |  emu |  self-developed pipeline) datasets to identify biomarkers and biological pathways.           
+- **Pipeline Development**: Explore and apply updated analytical methods for microbiota data, ensuring high
+performance computational workflows and reproducibility.             
+- **Translational Insights**: Characterized the dynamic interplay between host and microbial communities during pathogen challenge; identified specific intestinal commensals that mitigate infection severity, supporting the development of microbe-based disease intervention strategies.                 
+- **Project Leadership & Collaboration**: Independently designed and led computational analyses, interpreting multiomics data, and translating findings into mechanistic biological stories.                
+- **Mentorship**: Trained and mentored junior lab members in bioinformatics workflows, R programming, and high performance computing (HPC).               
+
+## Skills 
+**Bioinformatic & Computational Skills**       
+                                                                                                                   
+- **Computational Biology**: Extensive experience in analyzing nanopore data, shotgun metagenomics, 16S rRNA gene profiling, and transcriptomics (RNA-Seq). Experienced in genome assembly, comparative genomics, profiling, and network metabolic reconstruction.                   
+- **Programming**: Proficient in R and experienced in Python for advanced data wrangling, statistical modeling, and custom data visualization. Experienced in SQL for efficient data extraction and management.            
+- **Statistics**: Adept at selecting and applying appropriate statistical frameworks based on complex data structures. Experienced in time series data analysis for prediction and developing machine learning models (Ridge and LASSO Regression, High Dimensional Regression, Principal Component Analysis, Random Forest) for dimensionality reduction feature selection, and predictive analytics.                 
+- **High-Performance Computing & Infrastructure**: Proficient in Linux/Bash/Shell scripting for managing large-scale sequencing datasets in high-performance environments and expert in building complex, reproducible bioinformatic analytical environments using Conda | Mamba | Docker | Nextflow.                      
+                                                         
+**Molecular Biology Skills**     
+                                                                                                                 
+- **Nucleic Acid Isolation**: Proficient in high-quality DNA isolation and purification.                                 
+- **Bacterial Culture Methods**: Experienced in standard bacterial culturing techniques, including media preparation aseptic handling, and colony isolation.                            
+
+## Publications
+1. Whitmore, Melanie A., **Jiaqing Guo**, Dohyung M. Kim, Jing Liu, Isabel Tobin, and Guolong Zhang. "Deoxycholic Acid Mitigates Necrotic Enteritis Through Selective Inhibition of Pathobionts and Enrichment of Specific Lactic Acid Bacteria." *Pathogens* 14, no. 7 (2025): 688.
+2. Broadwater, Chace, **Jiaqing Guo**, Jing Liu, Isabel Tobin, Melanie A. Whitmore, Michael G. Kaiser, Susan J. Lamont, and Guolong Zhang. "Breed-specific responses to coccidiosis in chickens: identification of intestinal bacteria linked to disease resistance." *Journal of Animal Science and Biotechnology* 16, no. 1 (2025): 65.
+3. **Guo, Jiaqing**, Zijun Zhao, Chace Broadwater, Isabel Tobin, Jing Liu, Melanie Whitmore, and Guolong Zhang. "Is Intestinal Microbiota Fully Restored After Chickens Have Recovered from Coccidiosis?." *Pathogens* 14, no. 1 (2025): 81.
+4. Liu, Jing, **Jiaqing Guo**, Melanie A. Whitmore, Isabel Tobin, Dohyung M. Kim, Zijun Zhao, and Guolong Zhang. "Dynamic response of the intestinal microbiome to Eimeria maxima-induced coccidiosis in chickens." *Microbiology Spectrum* 12, no. 10 (2024): e00823-24.
+5. Zhang, Yanan, Yanxin Ye, **Jiaqing Guo**, Mengting Wang, Xuan Li, Yuting Ren, Weiyun Zhu, and Kaifan Yu. "Effects of 2'-fucosyllactose on the composition and metabolic activity of intestinal microbiota from piglets after in vitro fermentation." *Journal of the Science of Food and Agriculture* 104, no. 3 (2024): 1553-1563.
+6. Zhang, Ruofan, Guowen Huang, Yuting Ren, Haifeng Wang, Yanxin Ye, **Jiaqing Guo**, Mengting Wang, Weiyun Zhu, and Kaifan Yu. "Effects of dietary indole-3-carboxaldehyde supplementation on growth performance, intestinal epithelial function, and intestinal microbial composition in weaned piglets." *Frontiers in Nutrition* 9 (2022): 896815.
+
+## Honors and Awards                  
+- Sitlington Enriched Graduate Scholarship | 2023-2026
+- Williams Endowed Distinguished Graduate Fellowship | 2026
+
+## Hobbies
+- **Sports**: Pickleball, Bodybuilding                  
+- **Video Games**: Teamfight Tactics, Honor of Kings               

@@ -1,0 +1,19 @@
+---
+title: "Jiaqing Guo"
+subtitle: "PhD student in Oklahoma State University"
+image: /image/photo.jpg
+about:
+  template: jolla
+  links: 
+    - icon: google
+      href: https://scholar.google.com/citations?hl=en&user=20afRbcAAAAJ/
+    - icon: linkedin
+      href: https://www.linkedin.com/in/jiaqing-guo-73255928a/
+    - icon: facebook
+      href: https://www.facebook.com/profile.php?id=100092585928153
+    - icon: wechat
+      text: " "
+      href: wechat.qmd
+---
+
+

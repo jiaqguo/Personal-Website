@@ -1,0 +1,21 @@
+---
+title: "Jiaqing Guo"
+subtitle: "PhD Candidate | Oklahoma State University"
+image: image/photo.jpg
+about: 
+  template: jolla
+  links: 
+    - text: "{{< ai google-scholar-square >}}"
+      href: https://scholar.google.com/citations?hl=en&user=20afRbcAAAAJ/
+    - icon: github
+      href: https://github.com/jiaqguo 
+    - icon: linkedin
+      href: https://www.linkedin.com/in/jiaqing-guo-73255928a/
+    - icon: facebook
+      href: https://www.facebook.com/profile.php?id=100092585928153
+    - icon: wechat
+      text: " "
+      href: Personal-Website/wechat.html
+---
+Highly passionate bioinformatician skilled in utilizing command-line (Linux) and programming languages (R/Python). Dedicated to translating intricate microbial profiles into actionable biological insights to drive innovation in animal health.
+

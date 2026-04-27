@@ -1,0 +1,20 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Jiaqing's Website"
+  navbar:
+    left:
+      - href: about.qmd
+        text: About Me
+
+
+format:
+  html:
+    theme: simplex
+    css: styles.css
+    toc: true
+
+editor: source
+
